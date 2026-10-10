@@ -1,0 +1,35 @@
+# Datenschutzerklärung – Vertragswächter (Android-App)
+
+Stand: 10. Oktober 2026
+
+## Verantwortlich
+Dirk Schumacher
+E-Mail: kontakt@digiforge.ch
+
+## Kurz gesagt
+Vertragswächter erhebt keine personenbezogenen Daten. Alles, was du in der App erfasst, bleibt auf deinem Gerät.
+
+## Welche Daten die App verarbeitet
+Du erfasst in der App Verträge und Abonnemente, zum Beispiel Name, Anbieter, Vertragsnummer, Kosten, Fristen, Notizen, Kündigungen und Preisänderungen. Diese Angaben werden **ausschliesslich lokal auf deinem Gerät** gespeichert.
+
+- Die App hat **keine Internetberechtigung** und kann keine Daten senden.
+- Es gibt **keine Konten, keine Werbung, keine Analyse- oder Tracking-Dienste**.
+- Weder der Entwickler noch Dritte erhalten Zugriff auf deine Daten.
+
+## Berechtigungen
+- **Benachrichtigungen:** für Erinnerungen an Kündigungsfristen, Sonderkündigungen und fehlende Kündigungsbestätigungen.
+- **Start nach dem Neustart des Geräts:** damit geplante Erinnerungen nach einem Neustart erneut gesetzt werden.
+
+## Dateien und Teilen
+- **Backup exportieren / Kalender-Export:** Die Datei wird nur auf deinen Befehl erstellt und dort gespeichert, wo du es im Android-Dialog auswählst.
+- **Backup importieren:** Die App liest nur die Datei, die du selbst auswählst.
+- **Kündigungsschreiben teilen:** Der Text wird über das Android-Teilen-Menü an die App übergeben, die du auswählst (z. B. E-Mail). Für die Weiterverarbeitung gelten die Datenschutzbestimmungen dieser App.
+
+## Android-Sicherung
+Falls die Sicherung auf deinem Gerät aktiviert ist, kann Android die App-Daten in deiner persönlichen Google-Sicherung ablegen. Diese Sicherung steuerst du selbst in den Android-Einstellungen; der Entwickler hat darauf keinen Zugriff.
+
+## Löschen
+Einzelne Verträge löschst du in der App über «Bearbeiten → Löschen». Mit der Deinstallation der App werden alle Daten auf dem Gerät gelöscht.
+
+## Kontakt
+Fragen zum Datenschutz an: kontakt@digiforge.ch
