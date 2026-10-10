@@ -19,6 +19,7 @@ Du erfasst in der App Verträge und Abonnemente, zum Beispiel Name, Anbieter, Ve
 ## Berechtigungen
 - **Benachrichtigungen:** für Erinnerungen an Kündigungsfristen, Sonderkündigungen und fehlende Kündigungsbestätigungen.
 - **Start nach dem Neustart des Geräts:** damit geplante Erinnerungen nach einem Neustart erneut gesetzt werden.
+- **Biometrie (optionale App-Sperre):** Schaltest du die App-Sperre ein, prüft Android Fingerabdruck, Gesicht oder Geräte-PIN. Die App erhält dabei keine biometrischen Daten, sondern nur die Information, ob das Entsperren erfolgreich war.
 
 ## Dateien und Teilen
 - **Backup exportieren / Kalender-Export:** Die Datei wird nur auf deinen Befehl erstellt und dort gespeichert, wo du es im Android-Dialog auswählst.
