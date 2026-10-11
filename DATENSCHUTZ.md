@@ -21,6 +21,9 @@ Du erfasst in der App Verträge und Abonnemente, zum Beispiel Name, Anbieter, Ve
 - **Start nach dem Neustart des Geräts:** damit geplante Erinnerungen nach einem Neustart erneut gesetzt werden.
 - **Biometrie (optionale App-Sperre):** Schaltest du die App-Sperre ein, prüft Android Fingerabdruck, Gesicht oder Geräte-PIN. Die App erhält dabei keine biometrischen Daten, sondern nur die Information, ob das Entsperren erfolgreich war.
 
+## Dokumente zu Verträgen
+Fotos und PDF-Dateien, die du einem Vertrag anhängst (z. B. Police oder Kündigungsbestätigung), werden in den geschützten App-Speicher auf deinem Gerät kopiert. Für Fotos öffnet die App die Kamera-App deines Geräts; eine eigene Kameraberechtigung hat die App nicht. Öffnest oder teilst du ein Dokument, erhält nur die von dir gewählte App vorübergehend Lesezugriff auf genau diese Datei. Löschst du ein Dokument oder den Vertrag, wird die Datei vom Gerät entfernt.
+
 ## Dateien und Teilen
 - **Backup exportieren / Kalender-Export:** Die Datei wird nur auf deinen Befehl erstellt und dort gespeichert, wo du es im Android-Dialog auswählst.
 - **Backup importieren:** Die App liest nur die Datei, die du selbst auswählst.
